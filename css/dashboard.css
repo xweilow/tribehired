@@ -1,0 +1,17 @@
+.admin-sidebar .admin-sidebar-brand .admin-brand-logo {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+}
+.admin-sidebar .admin-sidebar-brand {
+	height: 100px;
+}
+.modal .modal-content {
+	border: 1px solid rgba(0,0,0,.2);;
+}
+.bootstrap-notify {
+	padding: 10px 30px 10px 10px;
+}
